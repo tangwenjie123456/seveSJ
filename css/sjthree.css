@@ -1,0 +1,25 @@
+.sj_biaoti1{
+	font: 18px bold;
+	background: #0f7cbf;
+	line-height: 35px;
+	text-indent: 1em;
+}
+
+div a{
+	font-size: 12px;
+	padding: 10px;
+	color: #666666;
+	text-decoration: none;
+	
+}
+.sj_biaoti2{
+	font: 14px bold;
+	line-height: 30px;
+	background: #e4f1fa;
+	color: #0F7CBF;
+	
+}
+a:hover{
+	color: #f60;
+	text-decoration: underline;
+}
